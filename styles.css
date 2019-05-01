@@ -8,18 +8,22 @@ body {
 }
 
 
-html{
-    background-color: #EFFBC1;
+html {
+    background-color: #f7eae1;
 }
 
-a{
+main {
+    margin: 0;
+}
+
+a {
     color: #092834;
     font-size: 1.1rem;
     font-weight: bold;
 }
 
 .page-title {
-    color: #B2D732;
+    color: #88bdbc;
     font-size: 1.5rem;
 }
 
@@ -28,24 +32,25 @@ a{
     top: 10px;
     right: 20px;
     cursor: pointer;
-    color: #B2D732;
+    color: #88Bdbc;
     font-size: 1.5rem;
 }
-.nav-links, 
+
+.nav-links,
 .logo {
     text-decoration: none;
-    color: #B2D732;
+    color: #88bdbc;
 }
 
 img.my-picture {
-  display: block;
-  margin: 0 auto 2em;
-  max-width: 100%;
-  border-radius: 50%;
+    display: block;
+    margin: 0 auto 2em;
+    max-width: 100%;
+    border-radius: 50%;
 }
 
 img.my-picture:hover {
-  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
 
 .iama {
@@ -85,25 +90,36 @@ h3 {
     color: #092834;
     margin-right: 0;
     font-weight: bold;
-    display: block; width: 30%;
+    display: block;
+    width: 30%;
 }
 
+/*.gallery{
+    background-image: linear-gradient(#88bdbc, #88bdbc, #88bdbc, #88bdbc);
+}
+*/
 img {
     max-width: 100%;
-    display: block; width: 90%;
-  -webkit-filter: drop-shadow(16px 16px 10px rgba(0,0,0,0.9));
-  filter: drop-shadow(16px 16px 10px rgba(0,0,0,0.9));
-border-radius: 8px;
-}
+    display: block;
+    width: 90%;
+    -webkit-filter: drop-shadow(16px 16px 10px rgba(0, 0, 0, 0.9));
+    filter: drop-shadow(16px 16px 10px rgba(0, 0, 0, 0.9));
+    border-radius: 8px;
+} 
+
+.pix:hover {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  }
 
 form {
     position: relative;
-    background: #347B98;
+    background: #88bdbc;
     margin: auto;
 }
 
 legend {
-    color: #F0F7D4;
+    color: ;
     font-weight: bold;
     font-size: 1.5em;
     padding: 3px 6px;
@@ -111,7 +127,7 @@ legend {
 
 label {
     font-weight: bold;
-   color: #F0F7D4; 
+    color: 092834;
 }
 
 input {
@@ -123,26 +139,28 @@ input {
 button {
     font-size: 1.1em;
     border-radius: 25px;
-    border-width:6px;
+    border-width: 6px;
     border: 2px solid #000000;
     font-weight: bold;
-    color: #092834;;
-  margin-bottom: 16px!important;
+    color: #092834;
+    ;
+    margin-bottom: 16px !important;
     padding: 4px 16px;
     vertical-align: middle;
-    display: block; width: 30%;
-  -webkit-filter: drop-shadow(10px 20px 10px rgba(0,0,0,0.9));
-  filter: drop-shadow(4px 4px 6px rgba(0,0,0,0.9));
+    display: block;
+    width: 30%;
+    -webkit-filter: drop-shadow(10px 20px 10px rgba(0, 0, 0, 0.9));
+    filter: drop-shadow(4px 4px 6px rgba(0, 0, 0, 0.9));
 }
 
 .submit:hover {
-background-color: #66B032;
+    background-color: #6e6658;
 }
 
 .submit:active {
-  background-color: #3e8e41;
-  box-shadow: 0 5px #666;
-  transform: translateY(4px);
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
 }
 
 input:focus,
@@ -172,34 +190,37 @@ hr {
     height: 2px;
     width: 100%;
 }
-.hero{
-  padding:2.5em;
-  max-width: 100%;
- margin: 0;
-  background-image: linear-gradient(#B2D732,#B2D732, #B2D732, #B2D732, #092834); 
+
+.hero {
+    padding: 2.5em;
+    max-width: 100%;
+    margin: 0;
+    /*background-image: linear-gradient(#88bdbc, #88bdbc, #88bdbc, #88bdbc, #092834);*/
+    background-image: url("Himani%20Patel.png");
+
 }
 
-.navbar{
+.navbar {
     background-color: #092834;
 }
-    
+
 .fa-twitter {
     color: #38A1F3;
 }
 
 footer {
-text-align: center;
-  padding: 0.2em;
-  max-width: 100%;
-  background-color: #092834;
-    color: #B2D732;
+    text-align: center;
+    padding: 0.2em;
+    max-width: 100%;
+    background-color: #092834;
+    color: #88bdbc;
     margin: 0;
 }
 
 figcaption {
     font-weight: bold;
     font-size: 1.3em;
-    color: #347B98;
+    color: #4f4a41;
 }
 
 
@@ -257,9 +278,9 @@ footer {
 
     .content {
         grid-template-columns: 1fr 2fr 1fr;
-        
+
     }
-  
+
     .content picture,
     .content p,
     .content h1 {
