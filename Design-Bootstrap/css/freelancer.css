@@ -55,6 +55,11 @@ hr.star-dark:after {
     background-color: white;
 }
 
+.mx-auto {
+    vertical-align: middle;
+    border-radius: 50%;
+}
+
 section {
     padding: 6rem 0;
 }
