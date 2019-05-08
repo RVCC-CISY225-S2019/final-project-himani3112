@@ -4,7 +4,8 @@
 You are going to have to download and add the files from your Project 7 into this repo. Then you'll edit your index.html and styles.css to complete the final project.  
 
 1. Download and unzip the project 7.
-2. Header displaying a logo and page title. Edit your own logo by using this link: 
+Note: Website has to be themed and the theme will include at least 2 different weights and italic style. Otherwise you will loose points.
+2. Header displaying a logo and page title. Replace the Blue Origami Bird with a logo and create your own logo by using this link: 
 https://www.google.com/search?client=opera&q=vecteezy+editor&sourceid=opera&ie=UTF-8&oe=UTF-8
 3. Profile section including a profile photo and a bio and add a wavey effect behind the display picture.
 4. Make the About-Me information attractive. The profile picture will be styled.
@@ -25,14 +26,17 @@ https://www.google.com/search?client=opera&q=vecteezy+editor&sourceid=opera&ie=U
       13. Image Hover Effects
       14. CSS Shape Outside
       15. Student’s Choice With Instructor Permission
-7. CSS styling along with transition effects, the submit button will show additional behavior when a mouse hovers over it and when it is clicked.
-8. Footer will have a copyright notice in the bottom and at least Github icon link to the student’s GitHub account. Other linked social iconslike Facebook, Google, Instagram, Twitter can also be added. For this icons ypu can look this website:
+7. Add drop cap on the first letter of the first paragraph of the story article. It has to be matches the overall tone of the web page’s theme.
+8. CSS styling along with transition effects, the submit button will show additional behavior when a mouse hovers over it and when it is clicked.
+9. Footer will have a copyright notice in the bottom and at least Github icon link to the student’s GitHub account. Other linked social iconslike Facebook, Google, Instagram, Twitter can also be added. For this icons ypu can look this website:
 https://www.google.com/search?client=opera&q=font+awesome&sourceid=opera&ie=UTF-8&oe=UTF-8
-9. 
+10. All HTML and CSS code will be validated and be beautified.
 
 
+EXTRA CREDIT INFORMATION:
+You can earned extra credit by doing Bootstrap version and Additional blog article(The blog article topics provided above). 
 
 
-**You are expected to do the Week 9 reading as preparation for this assignment. Also you must use our CSS formatting rules from the CISY 225 Style Guide.**
+**You can look the website "https://www.google.com/search?client=opera&q=w3schools&sourceid=opera&ie=UTF-8&oe=UTF-8" for the extra help. The grade rubric and additional information about the project provided in the final project section**
 
-**You Must Have a Perfect Project 5 Repo. Make all changes to P5 before starting this project. Your grade depends on this. If you need help, ask me for help.**
+**You Must Have a corrected final project Repo. Make all changes to project 7 before starting the final project. The project worth 100 points including inventory. ALL THE BEST!!!**
