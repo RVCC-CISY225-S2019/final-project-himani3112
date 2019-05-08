@@ -156,9 +156,11 @@ a {
 }
 
 .nav-links,
-.logo {
-    text-decoration: none;
+.logo
+{
+ text-decoration: none;
     color: #88bdbc;
+
 }
 
 
