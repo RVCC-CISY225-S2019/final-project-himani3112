@@ -26,6 +26,10 @@ https://www.google.com/search?client=opera&q=vecteezy+editor&sourceid=opera&ie=U
       14. CSS Shape Outside
       15. Student’s Choice With Instructor Permission
 7. CSS styling along with transition effects, the submit button will show additional behavior when a mouse hovers over it and when it is clicked.
+8. Footer will have a copyright notice in the bottom and at least Github icon link to the student’s GitHub account. Other linked social iconslike Facebook, Google, Instagram, Twitter can also be added. For this icons ypu can look this website:
+https://www.google.com/search?client=opera&q=font+awesome&sourceid=opera&ie=UTF-8&oe=UTF-8
+9. 
+
 
 
 
