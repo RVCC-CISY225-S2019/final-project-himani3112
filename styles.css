@@ -162,7 +162,10 @@ a {
     color: #88bdbc;
 
 }
-
+.page-title{
+   margin-top: 0.67em;
+    margin-bottom: 0.67em; 
+}
 
 img.my-picture {
     display: block;
